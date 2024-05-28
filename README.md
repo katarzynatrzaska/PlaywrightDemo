@@ -30,5 +30,9 @@ Install [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?
 # Run from your project's root directory
 npx playwright test
 ```
+
+## Running all tests in browser
+In order to turn off headless mode - uncomment 'headles: true' in playwright.config.json.
+
 ## Running tests from VS code 
-To watch automated scripts running in the browser, go to the VSCode sidebar, click on Testing icon and click on arrow icon next to 'tests'.
+Go to the VSCode sidebar, click on Testing icon and click on arrow icon next to 'tests'.
