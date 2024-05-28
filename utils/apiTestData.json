@@ -1,0 +1,19 @@
+{
+    "name": "Katarzyna",
+    "email_address": "katarzynatrzaska90@gmail.com",
+    "password": "123",
+    "title": "title",
+    "birth_date": "10",
+    "birth_month": "may",
+    "birth_year": "1990",
+    "firstname": "hajzer",
+    "lastname": "",
+    "company": "test",
+    "address1": "addr1",
+    "address2": "addr1",
+    "country": "India",
+    "zipcode": "11111",
+    "state": "test",
+    "city": "790851388",
+    "mobile_number": "11234445566"
+}
