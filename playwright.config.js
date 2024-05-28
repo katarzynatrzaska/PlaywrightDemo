@@ -9,7 +9,6 @@ export default defineConfig({
       use:
       {
         testIdAttribute: 'data-qa',
-        storageState: 'playwright/.auth/user.json',
         headless: false,
 
       }
@@ -24,7 +23,7 @@ export default defineConfig({
 
         // Use prepared auth state.
         storageState: 'playwright/.auth/user.json',
-        headless: false
+        headless: true,
       },
       dependencies: ['setup'],
     },

@@ -27,7 +27,7 @@ Install [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?
 
 ## Running all tests in headless mode
 ```Shell
-# Run from tests folder
+# Run from your project's root directory
 npx playwright test
 ```
 ## Running tests from VS code 
