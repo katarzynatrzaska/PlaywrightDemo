@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import {userAPIRequestBody} from '../utils/apiTestData.json'
+import { userAPIRequestBody } from '../utils/apiTestData.json'
 import { pageURL } from '../utils/pageURL.js';
 
 const postCreateAccountURL = pageURL.postCreateAccountURL;
@@ -16,7 +16,6 @@ test('Create user using POST request', async ({ request }) => {
 test('Search for a user using GET request', async ({ request }) => {
     const response = await request.get(getUserURL)
     expect(response.status()).toBe(200);
-
 });
 
 test('Delete user using DELETE request', async ({ request }) => {

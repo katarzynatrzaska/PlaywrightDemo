@@ -7,6 +7,5 @@ setup('authenticate', async ({ page }) => {
     const loginPage = new LoginPage(page);
     await loginPage.loginWithValidCreds(page, loginCreds[0].validLogin, loginCreds[0].validPassword);
     await expect(loginPage.logoutText).toBeVisible();
-
     await page.context().storageState({ path: authFile });
 });
