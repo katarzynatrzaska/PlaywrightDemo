@@ -1,5 +1,5 @@
 import { pageURL } from '../utils/pageURL';
-import { loginCreds } from '../utils/loginTestData.json';
+
 
 exports.LoginPage = class LoginPage {
 
@@ -14,11 +14,11 @@ exports.LoginPage = class LoginPage {
         this.consentToCookiesButton = page.locator('.fc-button.fc-cta-consent.fc-primary-button');
     }
 
-    async loginWithValidCreds(page) {
+    async loginWithValidCreds(page, login, password) {
         await page.goto(pageURL.loginURL);
         await this.consentToCookiesButton.click();
-        await this.emailInput.fill(loginCreds[0].validLogin);
-        await this.passwordInput.fill(loginCreds[0].validPassword);
+        await this.emailInput.fill(login );
+        await this.passwordInput.fill(password);
         await this.loginButton.click();
     }
 }
