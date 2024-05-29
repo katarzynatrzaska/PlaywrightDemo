@@ -14,13 +14,13 @@ exports.ContactUsPage = class ContactUsPage {
         this.contactUsConfirmation = page.locator('.status.alert.alert-success');
     }
 
-    async fillInContactForm(page) {
+    async fillInContactForm(page, name, email, subject, message) {
         page.on('dialog', dialog => dialog.accept());
         await page.goto(pageURL.contactUsURL);
-        await this.nameInput.fill('test');
-        await this.emailInput.fill('test@test.com');
-        await this.subjectInput.fill('test@##@');
-        await this.messageInput.fill('tes02939');
+        await this.nameInput.fill(name);
+        await this.emailInput.fill(email);
+        await this.subjectInput.fill(subject);
+        await this.messageInput.fill(message);
         await this.submitButton.click();
     }
 }

@@ -1,5 +1,5 @@
 import { pageURL } from '../utils/pageURL';
-import { loginCreds } from '../utils/testData.json';
+import { loginCreds } from '../utils/loginTestData.json';
 
 exports.LoginPage = class LoginPage {
 
