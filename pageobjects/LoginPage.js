@@ -17,7 +17,7 @@ exports.LoginPage = class LoginPage {
     async loginWithValidCreds(page, login, password) {
         await page.goto(pageURL.loginURL);
         await this.consentToCookiesButton.click();
-        await this.emailInput.fill(login );
+        await this.emailInput.fill(login);
         await this.passwordInput.fill(password);
         await this.loginButton.click();
     }
