@@ -1,7 +1,7 @@
 const baseURL = 'https://automationexercise.com'
 const baseAPIurl = 'https://automationexercise.com/api'
 
-const pageURL = {
+export const pageURL = {
     loginURL: baseURL + '/login',
     productsURL: baseURL + '/products',
     contactUsURL: baseURL + '/contact_us',
@@ -9,4 +9,3 @@ const pageURL = {
     getUserURL: baseAPIurl + 'getUserDetailByEmail?email=katarzynahajzer90@gmail.com',
     deleteUserURL: baseAPIurl + '/deleteAccount?email=katarzynahajzer90@gmail.com?password=123'
 }
-module.exports = { pageURL }
