@@ -14,9 +14,9 @@ export class ContactUsPage {
         this.contactUsConfirmation = page.locator('.status.alert.alert-success');
     }
 
-    async fillInContactForm(page, name, email, subject, message) {
-        page.on('dialog', dialog => dialog.accept());
-        await page.goto(pageURL.contactUsURL);
+    async fillInContactForm(name, email, subject, message) {
+        this.page.on('dialog', dialog => dialog.accept());
+        await this.page.goto(pageURL.contactUsURL);
         await this.nameInput.fill(name);
         await this.emailInput.fill(email);
         await this.subjectInput.fill(subject);

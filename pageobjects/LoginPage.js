@@ -13,8 +13,8 @@ export class LoginPage {
         this.consentToCookiesButton = page.locator('.fc-button.fc-cta-consent.fc-primary-button');
     }
 
-    async loginWithValidCreds(page, login, password) {
-        await page.goto(pageURL.loginURL);
+    async loginWithValidCreds(login, password) {
+        await this.page.goto(pageURL.loginURL);
         await this.consentToCookiesButton.click();
         await this.emailInput.fill(login);
         await this.passwordInput.fill(password);
