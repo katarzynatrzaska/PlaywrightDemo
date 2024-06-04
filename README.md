@@ -20,7 +20,7 @@ To run tests on your local machine, git clone this repository. In the main direc
 ```Shell
 # Run from your project's root directory
 npm install playwright --save-dev
- npm install playwright --save-dev
+npm install playwright --save-dev
 ```
 ### Install Visual Code Extension (Optional)
 Install [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
