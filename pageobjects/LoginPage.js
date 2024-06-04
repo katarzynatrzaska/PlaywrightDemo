@@ -1,6 +1,6 @@
 import { pageURL } from '../utils/pageURL';
 
-exports.LoginPage = class LoginPage {
+export class LoginPage {
 
     loginURL = pageURL.loginURL;
 

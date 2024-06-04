@@ -1,6 +1,6 @@
 import { pageURL } from '../utils/pageURL';
 
-exports.ContactUsPage = class ContactUsPage {
+export class ContactUsPage {
 
     contactUsURL = pageURL.contactUsURL;
 
