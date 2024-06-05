@@ -7,5 +7,5 @@ export const pageURL = {
     contactUsURL: baseURL + '/contact_us',
     postCreateAccountURL: baseAPIurl + '/createAccount',
     getUserURL: baseAPIurl + 'getUserDetailByEmail?email=katarzynahajzer90@gmail.com',
-    deleteUserURL: baseAPIurl + '/deleteAccount?email=katarzynahajzer90@gmail.com?password=123'
+    deleteUserURL: baseAPIurl + '/deleteAccount'
 }

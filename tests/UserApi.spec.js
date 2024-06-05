@@ -1,14 +1,16 @@
 import { test, expect } from '@playwright/test';
-import { userAPIRequestBody } from '../utils/apiTestData.json'
+import { apiCreateUserData } from '../utils/apiCreateUserData.json'
 import { pageURL } from '../utils/pageURL.js';
+import { apiDeleteUserData } from '../utils/apiDeleteUserData.json';
 
 const postCreateAccountURL = pageURL.postCreateAccountURL;
 const getUserURL = pageURL.getUserURL;
 const deleteUserURL = pageURL.deleteUserURL;
 
+
 test('Create user using POST request', async ({ request }) => {
     const response = await request.post(postCreateAccountURL, {
-        data: userAPIRequestBody
+        data: apiCreateUserData
     });
     expect(response.status()).toBe(200);
 });
@@ -19,6 +21,8 @@ test('Search for a user using GET request', async ({ request }) => {
 });
 
 test('Delete user using DELETE request', async ({ request }) => {
-    const response = await request.delete(deleteUserURL)
+    const response = await request.delete(deleteUserURL, {
+        data: apiDeleteUserData
+    });
     expect(response.status()).toBe(200);
 });
