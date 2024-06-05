@@ -1,3 +1,5 @@
+import { pageURL } from '../utils/pageURL';
+
 export class ProductsPage {
 
     constructor(page) {
@@ -11,6 +13,7 @@ export class ProductsPage {
     }
 
     async addProductToCart(product) {
+        await this.page.goto(pageURL.productsURL);
         await this.searchProductInput.fill(product);
         await this.submitSearchButton.click();
         await this.addToCartButton.first().click();

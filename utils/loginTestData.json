@@ -2,7 +2,8 @@
     "loginCreds": [
         {
             "validLogin": "katarzynahajzer90@gmail.com",
-            "validPassword": "passw)rd"
+            "validPassword": "passw)rd",
+            "name": "Katarzyna"
         }
     ]
 }

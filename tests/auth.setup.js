@@ -5,7 +5,7 @@ const authFile = 'playwright/.auth/user.json';
 
 setup('authenticate', async ({ page }) => {
     const loginPage = new LoginPage(page);
-    await loginPage.loginWithValidCreds(loginCreds[0].validLogin, loginCreds[0].validPassword);
+    await loginPage.login(loginCreds[0].validLogin, loginCreds[0].validPassword);
     await expect(loginPage.logoutText).toBeVisible();
     await page.context().storageState({ path: authFile });
 });

@@ -2,8 +2,6 @@ import { pageURL } from '../utils/pageURL';
 
 export class ContactUsPage {
 
-    contactUsURL = pageURL.contactUsURL;
-
     constructor(page) {
         this.page = page;
         this.nameInput = page.getByTestId('name');
