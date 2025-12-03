@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "AddProductToCart.spec.js",
-  "scripts": {},
+ "scripts": {
+  "start": "node app.js"  
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
