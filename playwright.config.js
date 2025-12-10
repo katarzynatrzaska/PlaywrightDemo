@@ -23,7 +23,7 @@ export default defineConfig({
 
         // Use prepared auth state.
         storageState: 'playwright/.auth/user.json',
-        headless: false,
+        headless: true,
       },
       dependencies: ['setup'],
     },
