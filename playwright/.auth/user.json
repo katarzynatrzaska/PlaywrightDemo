@@ -2,80 +2,80 @@
   "cookies": [
     {
       "name": "csrftoken",
-      "value": "Nf9gVXiUjO2LkjrPjhnZ5WqVAyYgazbyBVfIpZN6FM4dsK5w19FmOo3bsOpVUC3L",
+      "value": "ku5BRJMmSqjBNDucglfdg24WMw5lNm2FxqA7nIK22V3YH2PQgCD7lmHGUWxXy6k7",
       "domain": "automationexercise.com",
       "path": "/",
-      "expires": 1796774502.418815,
+      "expires": 1796775127.685075,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "FCCDCF",
-      "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CQcNzAAQcNzAAEsACBENCIFoAP_gAEPgABBoK1IB_C7EbCFCiDJ3IKMEMAhHABBAYsAwAAYBAwAADBIQIAQCgkEYBASAFCACCAAAKASBAAAgCAAAAUAAIAAFAABAAAwAIBAIIAAAgAAAAEAIAAAACIAAEQCAAAAEAEAAkAgAAAIASAAAAAAAAACBAAAAAAAAAAAAAAAABAAAAQAAQAAAAAAAiAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQR2QD-F2I2EKFEGCuQUYIYBCuACAAxYBgAAwCBgAAGCQgQAgFJIIkCAEAIEAAEAAAQAgCAABQEBAAAIAAAAAqAACAABgAQCAQQIABAAAAgIAAAAAAEQAAIgEAAAAIAIABABAAAAQAkAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAEABgAAAAAABEAAAAAAAACAQIAAA%22%2C%222~61.89.122.161.184.196.230.314.442.445.494.550.576.827.1029.1033.1046.1047.1051.1097.1126.1166.1301.1342.1415.1725.1765.1942.1958.1987.2068.2072.2074.2107.2213.2219.2223.2224.2328.2331.2387.2416.2501.2567.2568.2575.2657.2686.2778.2869.2878.2908.2920.2963.3005.3023.3100.3126.3219.3234.3235.3253.3309.3731.6931.8931.13731.15731.33931~dv.%22%2C%22E9279DD0-CFD2-4D65-9726-EF103D3D76AA%22%5D%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%221fadd81d-f03c-4d3d-9e9b-46ebde89b91b%5C%22%2C%5B1765324900%2C892000000%5D%5D%22%5D%5D%5D",
+      "value": "%5Bnull%2Cnull%2Cnull%2C%5B%22CQcNzAAQcNzAAEsACBENCIFoAP_gAEPgABBoK1IB_C7EbCFCiDJ3IKMEMAhHABBAYsAwAAYBAwAADBIQIAQCgkEYBASAFCACCAAAKASBAAAgCAAAAUAAIAAFAABAAAwAIBAIIAAAgAAAAEAIAAAACIAAEQCAAAAEAEAAkAgAAAIASAAAAAAAAACBAAAAAAAAAAAAAAAABAAAAQAAQAAAAAAAiAAAAAAAABAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAABAAAAAAAQR2QD-F2I2EKFEGCuQUYIYBCuACAAxYBgAAwCBgAAGCQgQAgFJIIkCAEAIEAAEAAAQAgCAABQEBAAAIAAAAAqAACAABgAQCAQQIABAAAAgIAAAAAAEQAAIgEAAAAIAIABABAAAAQAkAAAAAAAAAECAAAAAAAAAAAAAAAAAAAAAEABgAAAAAABEAAAAAAAACAQIAAA%22%2C%222~61.89.122.161.184.196.230.314.442.445.494.550.576.827.1029.1033.1046.1047.1051.1097.1126.1166.1301.1342.1415.1725.1765.1942.1958.1987.2068.2072.2074.2107.2213.2219.2223.2224.2328.2331.2387.2416.2501.2567.2568.2575.2657.2686.2778.2869.2878.2908.2920.2963.3005.3023.3100.3126.3219.3234.3235.3253.3309.3731.6931.8931.13731.15731.33931~dv.%22%2C%2226E37E2C-258E-409D-B57D-A0092ABC8C2B%22%5D%2Cnull%2Cnull%2C%5B%5B32%2C%22%5B%5C%22ecaeb507-6eb8-473e-a1f4-e38b9758ad82%5C%22%2C%5B1765325526%2C90000000%5D%5D%22%5D%5D%5D",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1799020901,
+      "expires": 1799021526,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
-      "name": "IDE",
-      "value": "AHWqTUmUPc3HbucrmB_9iftNg7t4iBAK3b9iTjEH7yM0eMd9fBM8wA93SrUpr9JvC90",
-      "domain": ".doubleclick.net",
-      "path": "/",
-      "expires": 1799020901.753907,
-      "httpOnly": true,
-      "secure": true,
-      "sameSite": "None"
-    },
-    {
       "name": "__gads",
-      "value": "ID=fc5890bb053b5586:T=1765324901:RT=1765324901:S=ALNI_Malo-Hbsi_1bRo_ivEnWPvguEEXUQ",
+      "value": "ID=1d4fed529a8e87fb:T=1765325526:RT=1765325526:S=ALNI_MaDm5WotyROHHaw3V8ByyXuRAx3og",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1799020901,
+      "expires": 1799021526,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "__gpi",
-      "value": "UID=000012a0b321ba0b:T=1765324901:RT=1765324901:S=ALNI_MZRIJjOweZVKxo55Ty9bcbyC69m9w",
+      "value": "UID=000012a0b32e9f6c:T=1765325526:RT=1765325526:S=ALNI_MbhG3XW3cdnayKSo3o8kPgWwMypJQ",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1799020901,
+      "expires": 1799021526,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "__eoi",
-      "value": "ID=32aaa54c1be518e8:T=1765324901:RT=1765324901:S=AA-AfjZAC1d672r59UhwkZ7fVLe0",
+      "value": "ID=87925670a393da06:T=1765325526:RT=1765325526:S=AA-AfjYD9FbdiKfJDP4Yx_JGubmK",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1780876901,
+      "expires": 1780877526,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
+      "name": "IDE",
+      "value": "AHWqTUlQa63kzl2DqQHGYhTWdNygRxDJMYPCpUBsM5FF-HVLrzFbbXAa5xmjvxCHC_A",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1799021526.102774,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
       "name": "FCNEC",
-      "value": "%5B%5B%22AKsRol8hY8fNb8eVcdetxwfAN1yWS5EluMi80ZAlDXJAV7aYcQABHm9inYQbwn-u7hSoEnEqUSthctwvgnde4W172bdv5N5xV5LPUTZjwdRcefof5Q1VD3MSAntFCaZ5qfA5_NwZp7wOQ55SKIRovyzBCT0xHqpkqA%3D%3D%22%5D%5D",
+      "value": "%5B%5B%22AKsRol9uv4rjzC9HdJeHe3INOW963NvPv8h0uhWH6Qffo-ZQrE-UXpQix3K0MelNGNdVl9HqWEZF8opwR7w-ywIegSzSsVp72UNGWQ6Nlk-Nydb-YgWFE1jLqH7ABinvsePixcVtn-wmGbLRLa9Ft_q6eq7sY-aUvw%3D%3D%22%5D%5D",
       "domain": ".automationexercise.com",
       "path": "/",
-      "expires": 1796860901,
+      "expires": 1796861527,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "sessionid",
-      "value": "bf3t6efvjog8yi5tklqjakwikkc3gyn1",
+      "value": "dr9y06y8iofkd7zzfx7lg52m4d14uho0",
       "domain": "automationexercise.com",
       "path": "/",
-      "expires": 1766534502.164902,
+      "expires": 1766535127.435085,
       "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
@@ -91,7 +91,7 @@
         },
         {
           "name": "google_ama_config",
-          "value": "[[[[null,2,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],2,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"30px\",1],[0],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],4,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>FOOTER#footer\"],1,[\"10px\",\"185px\",1],[0],null,[],[],1,[],[2,4]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],3,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget\"],1,[\"10px\",\"185px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#form\"],4,[\"10px\",\"185px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row>DIV\"],3,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],3,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#cart_info\"],4,[\"10px\",\"50px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian\"],4,[\"10px\",\"35px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#slider-carousel\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]]],[],[1765411301491],\"20251207_093426\",[],[[[[null,0,null,[],null,null,\"DIV#slider-carousel>DIV.carousel-inner>DIV.item.active.left>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,P\"]]]],[[null,[1,3,2,5],null,\"4334590153\",[],[],[0,2],null,null,[1,null,2,16,480,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[1225768231],null,null,[1765268075175],null,null,null,null,null,null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
+          "value": "[[[[null,2,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],2,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"30px\",1],[0],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"DIV#accordian>DIV.panel.panel-default>DIV.panel-heading>.panel-title\"],1,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],2,[\"10px\",\"10px\",1],[4],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],4,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>FOOTER#footer\"],1,[\"10px\",\"185px\",1],[0],null,[],[],1,[],[2,4]],[[null,0,null,[],null,null,\"DIV.footer-bottom\"],3,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget\"],1,[\"10px\",\"185px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV.footer-widget>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"SECTION#form\"],4,[\"10px\",\"185px\",1],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row>DIV\"],3,[\"10px\",\"10px\",0],[0],null,[],[],1,[],[]],[[null,1,null,[],null,null,\"BODY>SECTION>DIV.container>DIV.row\"],4,[\"10px\",\"10px\",0],[3],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"BODY\"],3,[\"10px\",\"10px\",1],[5],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#cart_info\"],4,[\"10px\",\"50px\",1],[2],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#accordian\"],4,[\"10px\",\"35px\",0],[0],null,[],[],1,[],[]],[[null,0,null,[],null,null,\"DIV#slider-carousel\"],4,[\"10px\",\"10px\",1],[1],null,[],[],1,[],[]]],[],[1765411926803],\"20251207_093426\",[],[[[[null,0,null,[],null,null,\"DIV#slider-carousel>DIV.carousel-inner>DIV.item.active.left>DIV\"],[null,null,null,[],null,null,\"P\"],null,[null,null,null,[],null,null,\"H1,H2,P\"]]]],[[null,[1,3,2,5],null,\"4334590153\",[],[],[0,2],null,null,[1,null,2,16,480,1],[]]],[null,[[1,\"1vp\",[[4,\"2vp\",\"2vp\"],[6,\"3vp\",\"3vp\"]],8,\"1vp\",0.30000001,[\"0.2vp\",\"0vp\",2]],[2,\"300px\",[[4,\"600px\",\"600px\"],[6,\"900px\",\"900px\"]],8,\"300px\",0.30000001,[\"60px\",\"0px\",2]]]],null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,null,null,0],null,null,[1,null,null,[]],null,[1225768231],null,null,[1765268075175],null,null,null,null,null,null,null,null,null,[[\"Toggle toolbar expansion\",\"Toggle privacy and legal settings display\",\"Dismiss privacy and legal settings display\"]]]"
         }
       ]
     },
@@ -100,7 +100,7 @@
       "localStorage": [
         {
           "name": "rc::h",
-          "value": "1765324901527"
+          "value": "1765325526880"
         }
       ]
     }
