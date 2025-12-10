@@ -14,10 +14,3 @@ test('Adding product to cart should trigger confirmation popup', async ({ page }
     await expect(productsPage.purchaseConfirmation).toBeVisible();
 });
 
-/*test('Purchase confirmation popup screenshot', async ({ page }) => {
-    const productsPage = new ProductsPage(page);
-    await searchAddProduct(page);
-    await productsPage.purchasePopup.screenshot({ path: 'confirmation-purchase-popup.png' });
-    expect(await page.screenshot()).toMatchSnapshot('confirmation-purchase-popup.png', { maxDiffPixels: 400000 });
-});
-*/
