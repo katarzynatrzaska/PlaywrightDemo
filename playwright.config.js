@@ -9,7 +9,7 @@ export default defineConfig({
       use:
       {
         testIdAttribute: 'data-qa',
-        headless: false,
+        headless: true,
 
       }
     },
